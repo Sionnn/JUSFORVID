@@ -7,8 +7,8 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
-  color: #fff;
+  background-color: #FFFAFA;
+  color: #00FFFF;
   height: 90px;
 }
 
@@ -36,12 +36,12 @@ li {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #FFE4C4;
 }
 
 .footer {
-  background-color: #2f5167;
-  color: #fff;
+  background-color: #FFF0F5;
+  color: #FFE4E1;
   height: 120px;
   padding: 40px;
 }
