@@ -28,7 +28,7 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 120px;
 }
 
 .copy-container h2 {
@@ -42,7 +42,7 @@ li {
 .footer {
   background-color: #add8e6;
   color: #f08080;
-  height: 120px;
+  height: 100px;
   padding: 40px;
 }
 
