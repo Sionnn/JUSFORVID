@@ -35,13 +35,9 @@ li {
   font-size: 50px;
 }
 
-.copy-container span {
-  color: #add8e6;
-}
-
 .footer {
   background-color: #add8e6;
-  color: #f08080;
+  color: #000000;
   height: 100px;
   padding: 40px;
 }
